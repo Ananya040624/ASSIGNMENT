@@ -1,1 +1,1 @@
-# ASSIGNMENT
+# "erythemato-squamous"
